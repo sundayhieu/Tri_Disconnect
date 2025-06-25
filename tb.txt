@@ -1,2 +1,2 @@
 ok
-Chào bạn, Nếu có lỗi gì xảy ra, bạn hãy gửi mô tả rõ ràng vào địa chỉ email nhmt@hetcuu.com để mình sửa chữa nhé!
+Chào bạn, Nếu login lần 2 đợi 2 phút, bạn hãy gửi lỗi vào địa chỉ email nhmt@hetcuu.com để mình sửa chữa nhé!
